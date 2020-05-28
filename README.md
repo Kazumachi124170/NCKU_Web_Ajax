@@ -1,5 +1,8 @@
 # NCKU_Web_Ajax
-A simple example for NCKU_Web_Design course
+A simple example for NCKU_Web_Design course.
+
+You can input two integer in the input, then the answer will show in ```answer```
+
 ## Step0: Set up
   * Install express and jquery by ```npm```
   
